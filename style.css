@@ -1,0 +1,55 @@
+body{
+background-color:#5F9EA0;
+}
+.heading{
+ text-align: center;
+color: black;
+font-size: 40px;
+}
+.text{
+text-align: center;
+color: black;
+font-size: 20px;
+}
+.homeimg{
+display: block;
+border-style: solid;
+border-width: thick;
+height:350px;
+width: 300px;
+border-radius: 20px;
+margin: 5px auto;
+align-self: center;
+}
+.nav-text{
+color: #FFB6C1;
+font-size: 20 px;
+flex: 1;
+text-align: center;
+border-right: 2px solid black;
+padding: 10 px;
+}
+.navbar{
+background-color:white;
+margin: 5px;
+margain-bottom: 20px;
+width: 100%;
+text-align: center;
+line-height: 55px;
+font-size: 20px;
+border-style: solid;
+justify-content:space-around;
+flex-grow: 1;
+display: flex;
+padding: 5px;
+}
+.iframe-container{
+display: flex;
+justify-content: center;
+align-items: center;
+min-height: 100vh;
+width: 100%
+}
+.line{
+border: 1px solid black;
+}
